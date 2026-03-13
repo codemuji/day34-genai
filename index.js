@@ -24,4 +24,4 @@ while (true) {
 
   console.log(`\x1b[34m[AI]\x1b[0m ${response.content}`);
 }
-rl.close();
+
